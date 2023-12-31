@@ -62,7 +62,7 @@ The dataset contains a series of gesture data perceived by sound waves for gestu
 
 ## ✔️Usage
 
-1. **Download**: Clone or download the dataset locally.
+1. **Download**: Clone or download the dataset locally. Due to the large number of files, we have placed the data for letters "K" to "Z" on Google Drive.
 
 ```bash
 git clone https://github.com/ISAC-GROUP/ISAC-Gesture.git
