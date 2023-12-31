@@ -69,7 +69,7 @@ git clone https://github.com/ISAC-GROUP/ISAC-Gesture.git
 ```
 
 ```bash
-https://drive.google.com/drive/u/1/home
+https://drive.google.com/drive/folders/1GvJN01FuhGpSDl0oNmU7xCZbxltt-iae?usp=sharing
 ```
 
 2. **Data format:** Data sets are stored as image files in their respective category folders.
