@@ -1,7 +1,6 @@
-# IPMC-Group Acoustic-based gesture dataset
+# ISAC-Group Acoustic-based gesture dataset
 
 The dataset contains a series of gesture data perceived by sound waves for gesture recognition and related research.
-
 
 
 ## 📚Content
@@ -104,4 +103,16 @@ user       device    orientation distance  environment   posture      count  for
 - Address: College of Computer Science and Software Engineering, Shenzhen University, 3688 Nanhai Ave, Shenzhen, Guangdong, China, 518060.
 
 Thank you for using our dataset!
+
+---
+
+## 🆕Update at 2024/04/11
+
+The updated data include four newly recruited participants who perform custom gestures within five weeks, as well as data from three participants who participated in the experiment one year ago and perform custom gestures again. The total amount of data is 3263 samples, expected to be helpful for long-term research.
+
+🔗 **Access the new dataset here:**
+
+> https://drive.google.com/drive/u/1/folders/1GvJN01FuhGpSDl0oNmU7xCZbxltt-iae
+
+---
 
