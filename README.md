@@ -1,5 +1,6 @@
 # ISAC-Group Acoustic-based gesture dataset
 
+
 The dataset contains a series of gesture data perceived by sound waves for gesture recognition and related research.
 
 
@@ -18,7 +19,6 @@ The dataset contains a series of gesture data perceived by sound waves for gestu
   Letter"A", Samsung Tab, 0°, lab environment, in-hand:    [p1-sss-0-1-lab-hand-18.png] ![p1-sss-0-1-lab-hand-18](p1-sss-0-1-lab-hand-18.png)
 
   Digit"0", Oppo watch, 0°, lab environment, on-table:   [p11-watch-0-1-lab-none-17.png] ![p11-watch-0-1-lab-none-17](p11-watch-0-1-lab-none-17.png)
-
 
 
 ## ⚙️File Structure
@@ -52,11 +52,7 @@ The dataset contains a series of gesture data perceived by sound waves for gestu
       ├── /B
       │   └── ...
       └── ...
-
 ```
-
-
-
 
 
 ## ✔️Usage
@@ -80,10 +76,7 @@ user       device    orientation distance  environment   posture      count  for
      
 ```
 
-
-
 3. **Citation:** If you have used this dataset in your research, please refer to this dataset.
-
 
 
 ## 🔗Citation
@@ -92,7 +85,7 @@ user       device    orientation distance  environment   posture      count  for
 
 > https://github.com/ISAC-GROUP/ISAC-Gesture
 
-
+> Zou Y, Wang Y, Dong H, et al. PreGesNet: Few-shot Acoustic Gesture Recognition Based on Task-adaptive Pretrained Networks[J]. IEEE Transactions on Mobile Computing, 2024.
 
 ## 😀Contact information
 
@@ -106,6 +99,7 @@ Thank you for using our dataset!
 
 ---
 
+
 ## 🆕Update at 2024/04/11
 
 The updated data include four newly recruited participants who perform custom gestures within five weeks, as well as data from three participants who participated in the experiment one year ago and perform custom gestures again. The total amount of data is 3263 samples, expected to be helpful for long-term research.
@@ -116,3 +110,7 @@ The updated data include four newly recruited participants who perform custom ge
 https://drive.google.com/drive/folders/1VU5LvRAw_kjCxLmkWiLYDcn0oCEz9vyO?usp=drive_link
 ```
 
+
+## 🆕Update at 2024/12/14
+
+Our paper has been accepted by IEEE TMC: Y. Zou, Y. Wang, H. Dong, Y. Wang, Y. He and K. Wu, "PreGesNet:  Few-Shot Acoustic Gesture Recognition Based on Task-Adaptive Pretrained Networks,"  in IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 12811-12829, Dec. 2024, doi: 10.1109/TMC.2024.3419556
