@@ -110,7 +110,20 @@ The updated data include four newly recruited participants who perform custom ge
 https://drive.google.com/drive/folders/1VU5LvRAw_kjCxLmkWiLYDcn0oCEz9vyO?usp=drive_link
 ```
 
+---
 
 ## 🆕Update at 2024/12/14
 
 Our paper has been accepted by IEEE TMC: Y. Zou, Y. Wang, H. Dong, Y. Wang, Y. He and K. Wu, "PreGesNet:  Few-Shot Acoustic Gesture Recognition Based on Task-Adaptive Pretrained Networks,"  in IEEE Transactions on Mobile Computing, vol. 23, no. 12, pp. 12811-12829, Dec. 2024, doi: 10.1109/TMC.2024.3419556
+
+---
+
+## 🆕Update at 2025/07/06
+
+🔗 **Access the code repository here:**
+
+```bash
+https://drive.google.com/drive/u/1/folders/1wi_tnkHeY6yvyHhvRvCCj1Xklq8DBkx4
+```
+
+---
